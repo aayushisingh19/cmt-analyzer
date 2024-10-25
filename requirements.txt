@@ -1,0 +1,5 @@
+streamlit
+selenium
+vaderSentiment
+matplotlib
+pandas
